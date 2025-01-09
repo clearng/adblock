@@ -1,0 +1,10 @@
+||douyu.com^
+||douyucdn.cn^
+||yy.com^
+||yystatic.com^
+||huya.com^
+||msstatic.com^
+||immomo.com^
+||momocdn.com^
+||tantanapp.com^
+||tancdn.com^
