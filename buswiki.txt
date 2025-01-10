@@ -5,3 +5,8 @@
 ||wybus.top^
 ||fsbus.top^
 ||tkbus.top^
+||sztrans.fandom.com^
+||chinabuses.fandom.com^
+||sh84.fandom.com^
+||njtrans.huijiwiki.com^
+||yinchuanbus.miraheze.org^
