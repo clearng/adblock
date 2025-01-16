@@ -16,3 +16,4 @@
 ||hbsredcross.org.cn^
 ||szredcross.suzhou.gov.cn^
 @@||icrc.org^
+@@||hhax.org^
