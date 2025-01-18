@@ -73,3 +73,22 @@
 @@||iyingji.com^
 127.0.0.1 railmapgen.github.io
 127.0.0.1 uat-railmapgen.github.io
+||redcross.org.cn^
+||gzredcross.org.cn^
+||gdsredcross.org.cn^
+||crcf.org.cn^
+||szredcross.org.cn^
+||redcross-sha.org.cn^
+||scredcross.org.cn^
+||zjredcross.org.cn^
+||jsredcross.org.cn^
+||bjredcross.org.cn^
+||jlsredcross.org.cn^
+||qdredcross.org.cn^
+||hebredcross.org^
+||redcross.wuxi.gov.cn^
+||hangzhouredcross.org^
+||hbsredcross.org.cn^
+||szredcross.suzhou.gov.cn^
+@@||icrc.org^
+@@||hhax.org^
