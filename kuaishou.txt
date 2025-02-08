@@ -23,5 +23,6 @@
 127.0.0.1 static.yximgs.com
 127.0.0.1 apissl.ksapisrv.com
 127.0.0.1 ntp.nc.gifshow.com
-||kuaishou.cn^
-||kuaishou.com^
+||kuaishou.cn^$important
+||kuaishou.com^$important
+||kuaishouzt.cn^$important
