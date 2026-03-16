@@ -1,94 +1,33 @@
-||ctwiki.top^
-||cantonbus.top^
-||zhbus.org^
-||zsbus.wiki^
-||wybus.top^
-||fsbus.top^
-||tkbus.top^
-||sztrans.fandom.com^
-||chinabuses.fandom.com^
-||sh84.fandom.com^
-||njtrans.huijiwiki.com^
-||yinchuanbus.miraheze.org^
-||douyu.com^
-||douyucdn.cn^
-||yy.com^
-||yystatic.com^
-||huya.com^
-||msstatic.com^
-||immomo.com^
-||momocdn.com^
-||tantanapp.com^
-||tancdn.com^
-||onlinedown.net^
-||downxia.com^
-||ddooo.com^
-||downkuai.com^
-||pcsoft.com.cn^
-||jxdown.com^
-||sd173.com^
-||cr173.com^
-||downcc.com^
-||skyxiazai.com^
-127.0.0.1 apissl.gifshow.com
-127.0.0.1 api.gifshow.com
-127.0.0.1 js2.a.yximgs.com
-127.0.0.1 tx2.a.yximgs.com
-127.0.0.1 bd.a.yximgs.com
-127.0.0.1 ali2.a.yximgs.com
-127.0.0.1 aliimg.a.yximgs.com
-127.0.0.1 qn.a.yximgs.com
-127.0.0.1 ipdispatch.live.xycdn.com
-127.0.0.1 ipdispatch.live.xycdn.com
-127.0.0.1 sdk.open.phone.igexin.com
-127.0.0.1 upload.gifshow.com
-127.0.0.1 api.ksapisrv.com
-127.0.0.1 sf2018-api.gifshow.com
-127.0.0.1 c-hzgt2.getui.com
-127.0.0.1 umc.danuoyi.alicdn.com
-127.0.0.1 sdk.conf.igexin.com
-127.0.0.1 qnmov.a.yximgs.com
-127.0.0.1 upload.ksapisrv.com
-127.0.0.1 sdkoptedge.chinanetcenter.com
-127.0.0.1 c-hzgt2.getui.com
-127.0.0.1 upload.ksapisrv.com
-127.0.0.1 static.yximgs.com
-127.0.0.1 apissl.ksapisrv.com
-127.0.0.1 ntp.nc.gifshow.com
-127.0.0.1 www.kuaishou.com
-127.0.0.1 live.kuaishou.com
-127.0.0.1 kuaishou.com
-127.0.0.1 music.kuaishou.com
-||hao123.com^
-||ludashi.com^
-||anclouds.com^
-||csdn.net^
-||onethingcloud.com^
-||mtrbbs.top^
-@@||limestart.cn^
-@@||retiehe.com^
-@@||airportal.cn^
-@@||github.com^
-@@||fotobuffet.hk^
-@@||iyingji.com^
-127.0.0.1 railmapgen.github.io
-127.0.0.1 uat-railmapgen.github.io
-||redcross.org.cn^
-||gzredcross.org.cn^
-||gdsredcross.org.cn^
-||crcf.org.cn^
-||szredcross.org.cn^
-||redcross-sha.org.cn^
-||scredcross.org.cn^
-||zjredcross.org.cn^
-||jsredcross.org.cn^
-||bjredcross.org.cn^
-||jlsredcross.org.cn^
-||qdredcross.org.cn^
-||hebredcross.org^
-||redcross.wuxi.gov.cn^
-||hangzhouredcross.org^
-||hbsredcross.org.cn^
-||szredcross.suzhou.gov.cn^
-@@||icrc.org^
-@@||hhax.org^
+! Version: 2026-03-16
+
+||qishui-music.com^
+||baiduwangpan.cc^
+||diannao-google.com.cn^
+||360ccm.com^
+||fanyi-youdao.com.cn^$important
+||web-wpsoffice.com.cn^$important
+||gmailpc.com^$important
+||2345ktw.com.cn^$important
+||lineopc.com^$important
+||teamsqs.com^$important
+||huorongcn.com^$important
+||huorongh.com^$important
+||huorongs.com^$important
+||huorongpc.com^$important
+||pqowdjioefobog.cyou^$important
+||2345.com^$important
+||2345.cc^$important
+||2345.net^$important
+||sengfeng.cn^$important
+||hao123.cn^$important
+||hao123.sh^$important
+||hao123.ch^$important
+||hiapk.com^$important
+||onethingcloud.com^$important
+||jdbox.jdcloud.com^$important
+||tiptime.cn^$important
+||dianxinai.com^$important
+||cscec.com^$important
+@@||api.installer.xiaomi.com^$important
+||7zip.com^$important
+||lanrar.com^$important
