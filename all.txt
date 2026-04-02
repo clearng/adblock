@@ -1,4 +1,4 @@
-! Version: 2026-03-16
+! Version: 2026-04-02
 
 ||qishui-music.com^
 ||baiduwangpan.cc^
@@ -31,3 +31,8 @@
 @@||api.installer.xiaomi.com^$important
 ||7zip.com^$important
 ||lanrar.com^$important
+||huawei.com.cn^
+||vmall.com^
+||huawei.com^
+||hima.auto^
+||td-tech.com^
