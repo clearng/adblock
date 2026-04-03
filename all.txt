@@ -36,3 +36,4 @@
 ||huawei.com^
 ||hima.auto^
 ||td-tech.com^
+||hicloud.com^
