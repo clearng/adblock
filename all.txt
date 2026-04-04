@@ -37,3 +37,8 @@
 ||hima.auto^
 ||td-tech.com^
 ||hicloud.com^
+||dbankcloud.ru^
+||dbankcloud.asia^
+||dbankcloud.cn^
+||dbankcloud.com^
+||dbankcloud.eu^
