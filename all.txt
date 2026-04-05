@@ -1,4 +1,4 @@
-! Version: 2026-04-03
+! Version: 2026-04-05
 
 ||qishui-music.com^
 ||baiduwangpan.cc^
@@ -42,3 +42,5 @@
 ||dbankcloud.cn^
 ||dbankcloud.com^
 ||dbankcloud.eu^
+||andnode.com^
+||anclouds.com^
